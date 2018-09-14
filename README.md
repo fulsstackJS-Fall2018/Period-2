@@ -35,7 +35,7 @@ Skim the [Express Website](https://expressjs.com/en/starter/installing.html), es
 
 
 **Exercises:**
-* [middleware,server side rendering,sessions and REST](https://docs.google.com/document/d/1-Bu_FC___DM9tS8fugsLe4EnwjPs4OSYCe6PMsCVE2Y/edit?usp=sharing)
+* [middleware-server side rendering-sessions and REST](https://docs.google.com/document/d/1-Bu_FC___DM9tS8fugsLe4EnwjPs4OSYCe6PMsCVE2Y/edit?usp=sharing)
 
 ## 24-9 - Monday
 * JavaScript Testing
