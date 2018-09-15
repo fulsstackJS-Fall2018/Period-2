@@ -29,9 +29,9 @@ Skim the [Express Website](https://expressjs.com/en/starter/installing.html), es
 * REST with node/Express
 
 #### Before this lesson you should:
-[Watch this key-note speech](http://expressjs.com/)
-
-[Read about Express middleware](https://expressjs.com/en/guide/using-middleware.html)  and/or [watch about middleware](https://www.youtube.com/watch?v=9HOem0amlyg)
+- [Watch this key-note speech](http://expressjs.com/)
+- [Read/skim this article about error handling with node](https://strongloop.com/strongblog/robust-node-applications-error-handling/)
+- [Read about Express middleware](https://expressjs.com/en/guide/using-middleware.html)  and/or [watch about middleware](https://www.youtube.com/watch?v=9HOem0amlyg)
 
 
 **Exercises:**
