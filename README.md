@@ -3,7 +3,7 @@
 
 *In this period you will be introduced to Express, a minimal and flexible node.js package, that provides a robust set of features for web and mobile applications. We will also introduce the Mocha test framework together with a number of supplementing packages for assertions, mocking etc. Finally you will be introduced to a new kind of databases - NoSQL Databases, with mongoDB as the document database we are going to use  *
 
-## [Learning Goals Period 2](https://docs.google.com/document/d/1D2TjYkUTUDgqRf37yg_xZLxLNGD-hFw1t8nPCP2X4Vc/edit?usp=sharing)
+## [Learning Goals Period 2](https://docs.google.com/document/d/1D2TjYkUTUDgqRf37yg_xZLxLNGD-hFw1t8nPCP2X4Vc/edit?usp=sharingg)
 
 ## 17-9 - Monday
 * a quick introduction to Express, MongoDB and Mongoose
@@ -19,7 +19,7 @@ Skim the [Express Website](https://expressjs.com/en/starter/installing.html), es
 
 
 
-**Exercises:** [From allmost Zero to start](https://docs.google.com/document/d/12AKRDn-PGH4mkBuKgVpKxqXAw33R5x9DX-QrIHzaPAY) , [Exercises](https://docs.google.com/document/d/1-Bu_FC___DM9tS8fugsLe4EnwjPs4OSYCe6PMsCVE2Y/edit?usp=sharing)   
+**Exercises:** [From allmost Zero to start](https://docs.google.com/document/d/12AKRDn-PGH4mkBuKgVpKxqXAw33R5x9DX-QrIHzaPAY) , [Exercises TBD]()   
 
 **Slides:** [Express intro](http://slides.mydemos.dk/express1/express1.html#1)
 
@@ -35,7 +35,7 @@ Skim the [Express Website](https://expressjs.com/en/starter/installing.html), es
 
 
 **Exercises:**
-* [middleware-server side rendering-sessions and REST](https://docs.google.com/document/d/1-Bu_FC___DM9tS8fugsLe4EnwjPs4OSYCe6PMsCVE2Y/edit?usp=sharing)
+* [middleware-server side rendering-sessions and REST - TBD]()
 
 ## 24-9 - Monday
 * JavaScript Testing
