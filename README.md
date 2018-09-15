@@ -13,9 +13,10 @@
 
 #### Before this lesson you should:
 
-Before this lesson you should read these two articles:
-[Express/Node introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
-Skim the [Express Website](https://expressjs.com/en/starter/installing.html), especially the getting started pages
+Before this lesson you should read/skim these articles:
+- [Express/Node introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
+- Skim the [Express Website](https://expressjs.com/en/starter/installing.html), especially the getting started pages 
+- Skim the article [Express Production best practices](Production best practices: performance and reliability)
 
 
 
