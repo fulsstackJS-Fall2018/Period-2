@@ -20,7 +20,9 @@ Before this lesson you should read/skim these articles:
 
 
 
-**Exercises:** [From allmost Zero to start](https://docs.google.com/document/d/12AKRDn-PGH4mkBuKgVpKxqXAw33R5x9DX-QrIHzaPAY) , [Exercises TBD]()   
+**Exercises:** 
+- [From allmost Zero to start](https://docs.google.com/document/d/12AKRDn-PGH4mkBuKgVpKxqXAw33R5x9DX-QrIHzaPAY) 
+- [Express Exercises ](https://docs.google.com/document/d/14nub9BzWpDbfxyFDLDNVmJaxPIYOOxblgT3owpv1j0Y/edit?usp=sharing) (Start with these today, we will continue Friday)  
 
 **Slides:** [Express intro](http://slides.mydemos.dk/express1/express1.html#1)
 
@@ -36,7 +38,7 @@ Before this lesson you should read/skim these articles:
 
 
 **Exercises:**
-* [middleware-server side rendering-sessions and REST - TBD]()
+* [middleware-server side rendering-sessions and REST](https://docs.google.com/document/d/14nub9BzWpDbfxyFDLDNVmJaxPIYOOxblgT3owpv1j0Y/edit?usp=sharing)
 
 ## 24-9 - Monday
 * JavaScript Testing
