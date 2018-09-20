@@ -28,7 +28,7 @@ Before this lesson you should read/skim these articles:
 
 ## 21-09- Friday
 * Express Continued
-* Server Side Rendering Libraries
+* debug and logging
 * REST with node/Express
 
 #### Before this lesson you should:
@@ -38,7 +38,8 @@ Before this lesson you should read/skim these articles:
 
 
 **Exercises:**
-* [middleware-server side rendering-sessions and REST](https://docs.google.com/document/d/14nub9BzWpDbfxyFDLDNVmJaxPIYOOxblgT3owpv1j0Y/edit?usp=sharing)
+* [Complete exercises from monday + the REST part](https://docs.google.com/document/d/14nub9BzWpDbfxyFDLDNVmJaxPIYOOxblgT3owpv1j0Y/edit?usp=sharing)
+* [Debugging and Logging](https://docs.google.com/document/d/14xNSHf_szUVA9dP7F6MQhaq59a6Lg9HOxkZDv3xYtTc/edit?usp=sharing)
 
 ## 24-9 - Monday
 * JavaScript Testing
