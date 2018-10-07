@@ -1,3 +1,6 @@
+### Snippet-file
+[snippet](https://docs.google.com/document/d/1zrnRMql9Cvlfxwa_VvicuJRWO8virBn9r1UlPm8JWMg/edit?usp=sharing)
+
 # Period-2  
 ### Node.js+Express, Testing with JavaScript, NoSQL with MongoDB and Mongoose
 
