@@ -104,7 +104,7 @@ We will implement the mongoose models for the [mini project](https://docs.google
 [Mini Project, part1](https://docs.google.com/document/d/1yjPzw7tskVoyw8vmWvvU1uc1fzu6Vnam3jEJkTTzDVw/edit?usp=sharing)
 
 #### Slides
-[MongoDB Handling Relations](http://slides.mydemos.dk/noSQL2/mongo_modeling.html
+[MongoDB Handling Relations](http://slides.mydemos.dk/noSQL2/mongo_modeling.html)
 
 # 12-10 -Friday
 ### Mini Project - part1
