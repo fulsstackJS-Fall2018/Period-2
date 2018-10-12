@@ -117,7 +117,7 @@ We will implement the mongoose models for the [mini project](https://docs.google
 You can use this [start code](https://github.com/fulsstackJS-Fall2018/miniProjectStartClassDemo.git) (what we did in the class monday + a bit more, see readme-file) as start-code for the exercise
 
 **Period Milestones:**
-* Period Hand-in: TBD
-* Hand-in Document TBD  [Add your git-links here](#):  
+* Period Hand-in: Søndag d. 14/10-16.00  (denne dealine respektere jeres efterårsferie, jeg tjekker dog først afleveringer d. 20/10)
+* Hand-in Document TBD  [Add your git-links here](https://docs.google.com/spreadsheets/d/1nG1Hv6jwcETi2nYAYBXqH1wCJTivizN09CeYxQrbIXY/edit?usp=sharing)  
 
 
